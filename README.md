@@ -11,7 +11,8 @@ Check out my [LinkedIn](https://www.linkedin.com/in/aidan-newman/) for more info
 ![Python](https://github.com/aidan-newman/image_storage/blob/629766127593ad5e18b9d3442ed5e463238a3685/aidan-newman/Python.png "Python")&nbsp;&nbsp;
 ![MATLAB](https://github.com/aidan-newman/image_storage/blob/8cab0698a5839535ef355df0914b6845db089f91/aidan-newman/Matlab.png "MATLAB")&nbsp;&nbsp;
 ![HTML](https://github.com/aidan-newman/image_storage/blob/4c83c7e45b604b2de4af84e1c78d02726a17fbd5/aidan-newman/HTML.png "HTML")&nbsp;&nbsp;
-![CSS](https://github.com/aidan-newman/image_storage/blob/4c83c7e45b604b2de4af84e1c78d02726a17fbd5/aidan-newman/CSS.png "CSS")
+![CSS](https://github.com/aidan-newman/image_storage/blob/4c83c7e45b604b2de4af84e1c78d02726a17fbd5/aidan-newman/CSS.png "CSS")&nbsp;&nbsp;
+![LATEX](https://github.com/aidan-newman/image_storage/blob/23c081500aef2ee84cdb444546b7f09559453d50/aidan-newman/LATEX.png "LATEX")
 
 ## Libraries
 ![Flask](https://github.com/aidan-newman/image_storage/blob/0702ca784e0efc943faa624ef39966882655194f/aidan-newman/Flask.png "Flask")&nbsp;&nbsp;
