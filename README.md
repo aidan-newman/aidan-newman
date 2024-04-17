@@ -23,7 +23,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/aidan-newman/) for more info
 ## Programs
 ![Git](https://github.com/aidan-newman/image_storage/blob/2a60744e3e2be7705419be70d3fef2fc0baf773c/aidan-newman/Git.png "Git")&nbsp;&nbsp;
 ![GitBash](https://github.com/aidan-newman/image_storage/blob/2a60744e3e2be7705419be70d3fef2fc0baf773c/aidan-newman/GitBash.png "GitBash")&nbsp;&nbsp;
-![GitHub](https://github.com/aidan-newman/image_storage/blob/e4b22c8fd84901276305d8e82534276233811234/aidan-newman/GitHub.png "GitHub")&nbsp;&nbsp;
+![GitHub](https://github.com/aidan-newman/image_storage/blob/698d4937fcd7f45600d5a9084958418975859639/aidan-newman/GitHub.png "GitHub")&nbsp;&nbsp;
 ![GitKraken](https://github.com/aidan-newman/image_storage/blob/2a60744e3e2be7705419be70d3fef2fc0baf773c/aidan-newman/GitKraken.png "GitKraken")&nbsp;&nbsp;
 ![JetBrains IDEs](https://github.com/aidan-newman/image_storage/blob/19fed8354096c51b77003a3fa8063aa1e51d8b63/aidan-newman/JetBrains.png "JetBrains IDEs")&nbsp;&nbsp;
 ![Visual Studio Code](https://github.com/aidan-newman/image_storage/blob/2a60744e3e2be7705419be70d3fef2fc0baf773c/aidan-newman/VSCode.png "Visual Studio Code")&nbsp;&nbsp;
