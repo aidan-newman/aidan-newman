@@ -12,7 +12,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/aidan-newman/) for more info
 ![MATLAB](https://github.com/aidan-newman/image_storage/blob/8cab0698a5839535ef355df0914b6845db089f91/aidan-newman/Matlab.png "MATLAB")&nbsp;&nbsp;
 ![HTML](https://github.com/aidan-newman/image_storage/blob/4c83c7e45b604b2de4af84e1c78d02726a17fbd5/aidan-newman/HTML.png "HTML")&nbsp;&nbsp;
 ![CSS](https://github.com/aidan-newman/image_storage/blob/4c83c7e45b604b2de4af84e1c78d02726a17fbd5/aidan-newman/CSS.png "CSS")&nbsp;&nbsp;
-![LATEX](https://github.com/aidan-newman/image_storage/blob/23c081500aef2ee84cdb444546b7f09559453d50/aidan-newman/LATEX.png "LATEX")
+![LATEX](https://github.com/aidan-newman/image_storage/blob/c16e32f030a65a9ba6c9fbc7293fbe303b412018/aidan-newman/LATEX.png "LATEX")
 
 ## Libraries
 ![Flask](https://github.com/aidan-newman/image_storage/blob/0702ca784e0efc943faa624ef39966882655194f/aidan-newman/Flask.png "Flask")&nbsp;&nbsp;
@@ -25,7 +25,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/aidan-newman/) for more info
 ![Git](https://github.com/aidan-newman/image_storage/blob/2a60744e3e2be7705419be70d3fef2fc0baf773c/aidan-newman/Git.png "Git")&nbsp;&nbsp;
 ![GitBash](https://github.com/aidan-newman/image_storage/blob/2a60744e3e2be7705419be70d3fef2fc0baf773c/aidan-newman/GitBash.png "GitBash")&nbsp;&nbsp;
 ![GitHub](https://github.com/aidan-newman/image_storage/blob/82c24f7b87c5823bcf874a9296619027cb166d74/aidan-newman/GitHub.png "GitHub")&nbsp;&nbsp;
-![GitKraken](https://github.com/aidan-newman/image_storage/blob/2a60744e3e2be7705419be70d3fef2fc0baf773c/aidan-newman/GitKraken.png "GitKraken")&nbsp;&nbsp;
+![GitKraken](https://github.com/aidan-newman/image_storage/blob/de663be6829039aa715a1063fb0397d60433cb6e/aidan-newman/GitKraken.png "GitKraken")&nbsp;&nbsp;
 ![JetBrains IDEs](https://github.com/aidan-newman/image_storage/blob/19fed8354096c51b77003a3fa8063aa1e51d8b63/aidan-newman/JetBrains.png "JetBrains IDEs")&nbsp;&nbsp;
 ![Visual Studio Code](https://github.com/aidan-newman/image_storage/blob/2a60744e3e2be7705419be70d3fef2fc0baf773c/aidan-newman/VSCode.png "Visual Studio Code")&nbsp;&nbsp;
 ![Visual Studio](https://github.com/aidan-newman/image_storage/blob/2a60744e3e2be7705419be70d3fef2fc0baf773c/aidan-newman/VS.png "Visual Studio")&nbsp;&nbsp;
