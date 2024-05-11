@@ -1,7 +1,7 @@
 # Hello! :wave:
 I'm Aidan, and I'm currently pursuing my BASc in **Mechatronics Engineering** at the University of Waterloo. I'm always looking to learn more about programming and can't wait to delve more into the world of software. The past few months I learned a lot about image recognition and neural networks while working on my "Handstand Helper" project.
 
-*Currently employed at Canadian Nuclear Laboratories as a Nuclear Engineering Student.*
+*Currently seeking employment for a Fall 2024 co-op placement.*
 
 Check out my [LinkedIn](https://www.linkedin.com/in/aidan-newman/) for more information about me.
 
